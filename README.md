@@ -1,3 +1,13 @@
+## Steps to setup the project:
+- Run composer install.
+- Create DB. Database settings you can find in - app->config->Database.php
+- Run database migrations. - php spark migrate
+- Command to start server - php spark serve
+- You can change encryption keys in - app->Config->Constants.php
+
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
